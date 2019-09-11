@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+   background-image: url("images/bg.jpg");
     height: 1010px;
     width: 1400px;
     margin: auto;
@@ -8,6 +8,7 @@ body {
 .container {
     margin: auto;
     width: 1020px;
+    background-color: white;
 }
 
 ul li {
