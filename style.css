@@ -59,9 +59,14 @@ nav {
     background-color: #e8e8e8;
 }
 
+section {
+    width: 1020px;
+    height: 675px;
+    margin-top: 4em;
+}
 section article {
     display: inline-block;
-    width: 33%;
+    width: 260px;
 }
 
 article p {
@@ -71,4 +76,21 @@ article p {
 
 i {
     height: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+span a {
+    color: #cfa205;
+}
+.first {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.second {
+    padding-right: 60px;
 }
