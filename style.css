@@ -4,4 +4,25 @@ body {
 
 .container {
     margin: auto;
+    width: 1020px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+header h1 {
+    font-size:133px;
+}
+
+nav {
+    text-align: center;
+}
+
+ header h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
 }
