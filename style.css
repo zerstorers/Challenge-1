@@ -1,5 +1,8 @@
 body {
     background-color: grey;
+    height: 1010px;
+    width: 1400px;
+    margin: auto;
 }
 
 .container {
@@ -11,12 +14,15 @@ ul li {
     display: inline-block;
 }
 
+
 header h1 {
     font-size:133px;
+    height: 320px;
 }
 
 nav {
     text-align: center;
+    height: 60px;
 }
 
  header h2 {
@@ -25,9 +31,14 @@ nav {
 
 .intro {
     text-align: center;
+    width: 900px;
+    height: 90px;
+    margin: auto;
 }
 
 .icons {
+    padding-top: 10px;
+    padding-bottom: 10px;
     text-align: center;
 }
 
@@ -39,4 +50,8 @@ section article {
 article p {
     width: 260px;
     height: 480px;
+}
+
+i {
+    height: 40px;
 }
