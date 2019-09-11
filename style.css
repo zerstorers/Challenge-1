@@ -23,6 +23,20 @@ nav {
     text-align: center;
 }
 
-p {
+.intro {
     text-align: center;
+}
+
+.icons {
+    text-align: center;
+}
+
+section article {
+    display: inline-block;
+    width: 33%;
+}
+
+article p {
+    width: 260px;
+    height: 480px;
 }
