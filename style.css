@@ -12,6 +12,12 @@ body {
 
 ul li {
     display: inline-block;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+
+header {
+    background-color: black;
 }
 
 
@@ -20,11 +26,9 @@ header h1 {
     text-align: center;
     color: #cfa205;
     vertical-align: bottom;
-}.
+    padding-top: 22px;
+    padding-bottom: 22px;
 
-.headers {
- padding-top: 33.5px;
- padding-bottom: 33.5px;
 }
 
 nav {
@@ -35,7 +39,9 @@ nav {
 
  header h2 {
     text-align: center;
-   
+    padding-bottom: 10px;
+    color: #cfa205;
+   padding-bottom: 10px;
 }
 
 .intro {
@@ -43,11 +49,12 @@ nav {
     width: 900px;
     height: 90px;
     margin: auto;
+    margin-top: 3em;
 }
 
 .icons {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     text-align: center;
     background-color: #e8e8e8;
 }
@@ -63,5 +70,5 @@ article p {
 }
 
 i {
-    height: 40px;
+    height: 20px;
 }
