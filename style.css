@@ -64,14 +64,21 @@ section {
     height: 675px;
     margin-top: 4em;
 }
+
 section article {
     display: inline-block;
     width: 260px;
+    height: 675px;
 }
 
 article p {
     width: 260px;
     height: 480px;
+}
+
+article h2 {
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 i {
