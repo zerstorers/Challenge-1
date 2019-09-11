@@ -23,12 +23,14 @@ header h1 {
 }.
 
 .headers {
-    height: 320px;
+ padding-top: 33.5px;
+ padding-bottom: 33.5px;
 }
 
 nav {
     text-align: center;
-    height: 60px;
+   padding-bottom: 20.5px;
+   padding-top: 20.5px;
 }
 
  header h2 {
